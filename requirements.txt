@@ -1,0 +1,4 @@
+# O sistema (main.py e test_sistema.py) usa apenas bibliotecas padrão do Python.
+# Nenhuma instalação é necessária para rodar o sistema.
+# A biblioteca abaixo só é necessária se quiser gerar novamente o PDF de documentação.
+reportlab
